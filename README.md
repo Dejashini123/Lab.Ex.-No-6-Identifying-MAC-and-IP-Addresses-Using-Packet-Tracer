@@ -14,6 +14,8 @@ ________________________________________
 •	The topology contains a local network (172.16.31.0/24) connected to a remote network (10.10.10.0/24) via a router.<br>
 •	Devices include PCs, switches, hub, and wireless AP.<br>
 (Insert screenshot of your Packet Tracer setup here)<br>
+<img width="1918" height="1142" alt="image" src="https://github.com/user-attachments/assets/a316474d-4241-4377-bc70-28d509c1b5ff" />
+
 ________________________________________
 # IP Addressing Table
 (Example – actual values from simulation)<br>
@@ -49,18 +51,19 @@ Switch1	000C:85CC:1DA7	00D0:D311:C788	N/A	N/A<br>
 ________________________________________
 # Output (Screenshots)
 •	PDU details for local communication<br>
-<img width="1917" height="1140" alt="Screenshot 2026-11-17 153935" src="https://github.com/user-attachments/assets/fb1506ac-bcde-4aa0-bc4f-676089d3d1fb" />
-<img width="1600" height="952" alt="image" src="https://github.com/user-attachments/assets/e82355de-2665-4e39-9b48-49fd2a6069db" />
-<img width="1600" height="945" alt="image" src="https://github.com/user-attachments/assets/145b96a5-6fc6-4ccc-a7d9-a0a42bf05457" />
+<img width="1912" height="1143" alt="image" src="https://github.com/user-attachments/assets/fc1f1859-d095-49c8-8c3b-01e06d24c023" />
+
 
 •	PDU details for remote communication<br>
-<img width="1600" height="945" alt="image" src="https://github.com/user-attachments/assets/e798f3fb-eb9f-495d-b7f2-0ee27dfa631f" />
-<img width="1600" height="964" alt="image" src="https://github.com/user-attachments/assets/0af4b3c8-b669-4c0a-8ce1-0b24ff43bf2f" />
+<img width="1901" height="1128" alt="image" src="https://github.com/user-attachments/assets/339b2238-ae83-4153-acd9-4291d7bcf7cb" />
+<img width="1912" height="1136" alt="image" src="https://github.com/user-attachments/assets/ce90a77b-35b2-4bca-a020-0499131ecccb" />
+
+
 
 •	Tables showing MAC/IP changes through each device<br>
 ________________________________________
-<img width="1918" height="1142" alt="image" src="https://github.com/user-attachments/assets/d8d010dd-666e-49ae-97fc-447423ebf6bf" />
-<img width="1902" height="1128" alt="image" src="https://github.com/user-attachments/assets/bef636d8-d8d4-41c7-a703-a0ec8065bae4" />
+<img width="1913" height="1140" alt="image" src="https://github.com/user-attachments/assets/f318ed6b-92a8-4106-aeee-0ae5bdd79ed1" />
+
 
 
 # Result
