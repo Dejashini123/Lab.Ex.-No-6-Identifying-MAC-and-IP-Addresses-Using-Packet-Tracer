@@ -52,11 +52,13 @@ ________________________________________
 # Output (Screenshots)
 •	PDU details for local communication<br>
 <img width="1912" height="1143" alt="image" src="https://github.com/user-attachments/assets/fc1f1859-d095-49c8-8c3b-01e06d24c023" />
+<img width="1901" height="1128" alt="image" src="https://github.com/user-attachments/assets/339b2238-ae83-4153-acd9-4291d7bcf7cb" />
+<img width="1912" height="1136" alt="image" src="https://github.com/user-attachments/assets/ce90a77b-35b2-4bca-a020-0499131ecccb" />
+
 
 
 •	PDU details for remote communication<br>
-<img width="1901" height="1128" alt="image" src="https://github.com/user-attachments/assets/339b2238-ae83-4153-acd9-4291d7bcf7cb" />
-<img width="1912" height="1136" alt="image" src="https://github.com/user-attachments/assets/ce90a77b-35b2-4bca-a020-0499131ecccb" />
+<img width="1600" height="845" alt="image" src="https://github.com/user-attachments/assets/35c6c9f0-2ac3-4960-be42-d4e63b55a0c2" />
 
 
 
